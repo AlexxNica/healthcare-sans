@@ -14,10 +14,11 @@ If you have feedback or suggestions about the project, contact me on Twitter [@b
 ## Reading List
 
 ### Tall Man Lettering
-- [Tall man lettering](https://en.wikipedia.org/wiki/Tall_Man_lettering)
+
 - [FDA and ISMP Lists of
 Look-Alike Drug Names with Recommended Tall Man Letters](https://www.ismp.org/tools/tallmanletters.pdf)
-- [Tall man lettering and potential prescription errors: a time series analysis of 42 children's hospitals in the USA over 9 years](http://qualitysafety.bmj.com/content/25/4/233.full)
+- [Tall Man lettering](https://en.wikipedia.org/wiki/Tall_Man_lettering)
+- [Tall Man lettering and potential prescription errors: a time series analysis of 42 children's hospitals in the USA over 9 years](http://qualitysafety.bmj.com/content/25/4/233.full)
 - [The Use of Tall Man Lettering to Minimise Selection Errors
 of Medicine Names in Computer Prescribing and
 Dispensing Systems](http://webarchive.nationalarchives.gov.uk/20130502102046/http://www.connectingforhealth.nhs.uk/systemsandservices/eprescribing/refdocs/tallman.pdf)
@@ -36,4 +37,5 @@ Dispensing Systems](http://webarchive.nationalarchives.gov.uk/20130502102046/htt
 - [Design for patient safety: a guide to the design of dispensed medicines](http://www.nrls.npsa.nhs.uk/resources/collections/design-for-patient-safety/?entryid45=59829)
 - [Design for patient safety: a guide to the design of the dispensing environment](http://www.nrls.npsa.nhs.uk/resources/collections/design-for-patient-safety/?entryid45=59830)
 - [Design for patient safety: A guide to the graphic design of medication packaging](http://www.nrls.npsa.nhs.uk/resources/collections/design-for-patient-safety/?entryid45=63053)
+- [NHS Identity Guidelines: Fonts](https://www.england.nhs.uk/nhsidentity/identity-guidelines/fonts/)
 - [Safer administration of insulin](http://www.nrls.npsa.nhs.uk/alerts/?entryid45=74287)

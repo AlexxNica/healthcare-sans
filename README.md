@@ -26,6 +26,7 @@ Dispensing Systems](http://webarchive.nationalarchives.gov.uk/20130502102046/htt
 ### Typeface Design
 
 - [Design with FontForge](http://designwithfontforge.com/)
+- [Font Requirements](https://github.com/google/fonts/blob/master/CONTRIBUTING.md#font-requirements)
 - [How to create your own font: 18 top tips](http://www.creativebloq.com/typography/design-your-own-typeface-8133919)
 - [How to Practice Lettering and Get Better Faster](http://lettershoppe.com/how-to-practice-lettering-and-get-better-faster/)
 
